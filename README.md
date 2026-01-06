@@ -7,7 +7,7 @@ Although named for crypto intelligence, this implementation uses a sample e-comm
 This project showcases practical skills in web scraping, data analysis, and data visualization, making it suitable for data science and analytics portfolios.
 
 ## 🎯 Objectives
--Scrape structured data from a live website using BeautifulSoup
+- Scrape structured data from a live website using BeautifulSoup
 -Clean and transform raw data into meaningful insights
 -Analyze pricing patterns and calculate potential savings
 -Identify high-reliability products based on review counts
