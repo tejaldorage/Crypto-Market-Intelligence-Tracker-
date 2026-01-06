@@ -69,13 +69,13 @@ WEB SCRAPING/
 - Saved visualization image: value_analysis.png
 
 # 📌 Sample Output
-'''
+```
 Analysis Complete. Dataframe of Best Deals:
              Model     Current_Price   Savings
 ------------------------------------------------
 Laptop XYZ         799.99             120.00
 Laptop ABC         699.99             105.00
-'''
+```
 
 
   
