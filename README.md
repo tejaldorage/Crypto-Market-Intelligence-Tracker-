@@ -34,12 +34,13 @@ This project showcases practical skills in web scraping, data analysis, and data
 
 
 ## 📂 Project Structure
+```
 WEB SCRAPING/
 │
 ├── Crypto-Market-Intelligence-Tracker.py  # Web scraping and analysis script
 ├── value_analysis.png     # Generated visualization
 ├── README.md              # Project documentation
-
+```
 
 
 
